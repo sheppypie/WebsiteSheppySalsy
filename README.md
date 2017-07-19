@@ -1,2 +1,2 @@
 # sheppypie.github.io
-Sample website for  
+Sample GitHub Pages Website using Jekyll
