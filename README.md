@@ -1,2 +1,2 @@
-# WebsiteSheppySalsy
-Website for Sheppy&amp;Salsy Wedding 
+# sheppypie.github.io
+Sample website for  
